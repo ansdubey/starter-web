@@ -1,2 +1,4 @@
 Some text for hipster.
 Adding some more text.
+Adding third line.
+This is fourth change.
